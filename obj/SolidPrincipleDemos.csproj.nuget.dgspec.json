@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\SolidPrincipleDemos\\SolidPrincipleDemos.csproj": {}
+  },
+  "projects": {
+    "E:\\SolidPrincipleDemos\\SolidPrincipleDemos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SolidPrincipleDemos\\SolidPrincipleDemos.csproj",
+        "projectName": "SolidPrincipleDemos",
+        "projectPath": "E:\\SolidPrincipleDemos\\SolidPrincipleDemos.csproj",
+        "packagesPath": "C:\\Users\\Anamika\\.nuget\\packages\\",
+        "outputPath": "E:\\SolidPrincipleDemos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anamika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Anamika\\source\\repos\\ClassLibrary5": {},
+          "C:\\Users\\Anamika\\source\\repos\\MyDemoPack": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
